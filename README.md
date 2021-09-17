@@ -1,3 +1,3 @@
 # To-Do-List
 
-ToDo List App for the purpose of learning swift
+ToDo List App for the purpose of learning Swift
